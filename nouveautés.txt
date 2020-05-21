@@ -1,3 +1,5 @@
 [21/05/2020]
 - Commencement du serveur.
 - Ajout des annonces github sur le serveur Discord
+
+18h54 : Serveur en version communautaire fait.. Création d'une partie radio en cours. . .
