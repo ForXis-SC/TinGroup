@@ -1,3 +1,0 @@
-[21/05]
-- Commencement du serveur.
-- Ajout des annonces github sur le serveur Discord
