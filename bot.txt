@@ -1,0 +1,5 @@
+[22.05.2020]
+• 19h:
+- TempMute fonctionnel
+- Ban fonctionnel
+- Kick fonctionel
