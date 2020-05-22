@@ -3,3 +3,15 @@
 - Ajout des annonces github sur le serveur Discord
 
 18h54 : Serveur en version communautaire fait.. Création d'une partie radio en cours. . .
+
+[22.05.2020]
+• 16h23: 
+- Création des rôles + émojis = ok
+- Partie Radio = Annulé !
+- Nom = Trouvé (Disc'Fun)
+- Sujets des salons = Ok
+- Salons = Ok
+- Émojis salon = En cours
+- Catégorie RP = En cours
+
+• 
