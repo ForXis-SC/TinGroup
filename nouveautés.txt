@@ -21,3 +21,8 @@
 • 17h52
 - Image Serveur + Bot = Fait
 - Création du bot = en cours
+
+— 26.06.2020 —
+- ajout de nouveau emoji = en cours
+- emoji salon = terminé
+- catégorie RP = pause (attente de suggestions)
