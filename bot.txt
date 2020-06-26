@@ -3,3 +3,6 @@
 - TempMute fonctionnel
 - Ban fonctionnel
 - Kick fonctionel
+
+26.06.2020:
+- Retour a case de départ.. Le bot seras en développement pendant tout l'été.
