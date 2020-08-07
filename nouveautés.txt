@@ -1,28 +1,5 @@
-[21/05/2020]
-- Commencement du serveur.
-- Ajout des annonces github sur le serveur Discord
+Le 06.08.2020:
+~ MAJ V2 du serveur Discord.
 
-18h54 : Serveur en version communautaire fait.. Création d'une partie radio en cours. . .
-
-[22.05.2020]
-• 16h23: 
-- Création des rôles + émojis = ok
-- Partie Radio = Annulé !
-- Nom = Trouvé (Disc'Fun)
-- Sujets des salons = Ok
-- Salons = Ok
-- Émojis salon = En cours
-- Catégorie RP = En cours
-
-• [edit - 16h35]
-- Thème RP = Ok (Ville)
-- Image Serveur = ???
-
-• 17h52
-- Image Serveur + Bot = Fait
-- Création du bot = en cours
-
-— 26.06.2020 —
-- ajout de nouveau emoji = en cours
-- emoji salon = terminé
-- catégorie RP = pause (attente de suggestions)
+Le 07.08.2020:
+~ Ajout de la page facebook, du twitter et du github.
