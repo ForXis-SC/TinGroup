@@ -1,8 +1,3 @@
-[22.05.2020]
-• 19h:
-- TempMute fonctionnel
-- Ban fonctionnel
-- Kick fonctionel
+25.08.2020: Reprise du développement le vendredi 4 septembre 2020.
 
-26.06.2020:
-- Retour a case de départ.. Le bot seras en développement pendant tout l'été.
+Dès le 4 septembre 2020 : ajout du discord.js (v12) + ajout commandes multifonction.
