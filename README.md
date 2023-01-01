@@ -1,3 +1,3 @@
-# Disc'Fun
-Serveur Communautaire sur Discord - 100% Fun !
-Tout droit réservés - 2020
+# #SC Community
+Serveur Communautaire sur Discord - Parlons Informatique !
+Tout droit réservés - 2022/2023
