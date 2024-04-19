@@ -1,3 +1,3 @@
-# #SC Community
+# Vex Online
 Serveur Communautaire sur Discord - Parlons Informatique !
-Tout droit réservés - 2022/2023
+Tout droits réservés - 2016~2024 (6 ans)
