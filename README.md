@@ -1,3 +1,4 @@
 # Vex Online
-Serveur Communautaire sur Discord - Parlons Informatique !
-Tout droits réservés - 2016~2024 (6 ans)
+#### Crée. Partage. Connecte. Où l'imagination devient réalité 
+#### Serveur Communautaire sur Discord - Ton Univers Discord Ultime !
+###### Tout droits réservés - 2016~2024
