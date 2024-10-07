@@ -1,3 +1,5 @@
 1.03.2024 > Reprise du développement d'un Bot Discord nommé "Rink".
 19.04.2024 > Développement toujours en cours.
+1.07.2024 > Modification du nom du Bot Discord en "TinBot"
 17.07.2024 > Suppresion de la version utilisé actuellement (v13) pour recréation sous nouvelle version Discord.JS (v14)
+8.10.2024 > Dernière amélioration pour la première version de TinBot.
