@@ -1,3 +1,4 @@
+# 2024
 31.03.2024 > Année 2023/2024 en cours..
 1.04.2024 > Refonte total du Serveur Discord > Ouverture prévu début Octobre 2024.
 19.04.2024 > Réouverture du GitHub (TinGroup) et ajout de quelques textes.
@@ -10,3 +11,7 @@
 21.09.2024 > Année 2023/2024 la fin
 7.10.2024 > Année 2024/2025, le début
 8.10.2024 > Reprise du développement du serveur communautaire (approfondisement des améliorations). 
+
+# 2025
+26.05.2025 > Développement du serveur communautaire terminé, Bot discord terminé, Site web terminé !
+26.05.2025 > Ouvertures : Bot Discord disponible dès le Mercredi 4 Juin 2025 dès 19h45/20h | Serveur Communautaire ouverture dès le Samedi 7 Juin 2025 dès 14h45 (Les commandes pour les SERVEURS DISCORD seront disponible dès le 5 Juillet 2025 à 14h ! ) | Site Web (VERSION BÊTA) disponible dès le Samedi 31 Mai dès 14h45.
