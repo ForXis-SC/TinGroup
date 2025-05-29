@@ -3,3 +3,4 @@
 1.07.2024 > Modification du nom du Bot Discord en "TinBot"
 17.07.2024 > Suppresion de la version utilisé actuellement (v13) pour recréation sous nouvelle version Discord.JS (v14)
 8.10.2024 > Dernière amélioration pour la première version de TinBot.
+29.05.2025 > À ce jour : 81 commandes organisées en 10 catégories, soit une moyenne de 8 commandes par catégorie.
